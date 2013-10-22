@@ -37,22 +37,9 @@ Installed software:
 * [MailCatcher](http://mailcatcher.me/)
 * [Composer](http://getcomposer.org/)
 * Phing
-* Drupal utils:
-    * [Drush](http://drupal.org/project/drush)
 * Wordpress utils:
     * [WP-Cli](http://wp-cli.org/)
     * [wp2github.py](http://github.com/r8/wp2github.py)
-* Magento utils:
-    * [n98-magerun](https://github.com/netz98/n98-magerun)
-    * [modman](https://github.com/colinmollenhour/modman)
-    * [modgit](https://github.com/jreinke/modgit)
-* Node.js with following packages:
-    * [CoffeeScript](http://coffeescript.org)
-    * [Grunt](http://gruntjs.com/)
-    * [Bower](http://bower.io)
-    * [Yeoman](http://yeoman.io)
-    * [LESS](http://lesscss.org)
-    * [CSS Lint](http://csslint.net)
 
 Notes
 -----
