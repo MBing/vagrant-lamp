@@ -2,6 +2,7 @@
     "id": "local",
     "host": "local.dev",
     "aliases": [
+        "localhost:8080", 
         "www.local.dev", 
         "test.com",
         "www.test.com"
