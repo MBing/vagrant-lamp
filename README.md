@@ -31,12 +31,8 @@ Installed software:
 * php
 * phpMyAdmin
 * Xdebug with Webgrind
-* zsh with [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
-* git, subversion
 * mc, vim, screen, tmux, curl
 * [MailCatcher](http://mailcatcher.me/)
-* [Composer](http://getcomposer.org/)
-* Phing
 * Wordpress utils:
     * [WP-Cli](http://wp-cli.org/)
     * [wp2github.py](http://github.com/r8/wp2github.py)
@@ -98,6 +94,3 @@ the vagrant box generates. The Web frontend for MailCatcher is running on port
 
     http://local.dev:1080
 
-### Composer
-
-Composer binary is installed globally (to `/usr/local/bin`), so you can simply call `composer` from any directory.
